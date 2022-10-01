@@ -16,3 +16,12 @@
   <% end %>
 </div>
 
+
+<% if @stock %>
+<div>
+  <h2><%= @stock.ticker %></h2>
+  <h2><%= @stock.name %></h2>
+  <h2><%= @stock.last_price %></h2>
+</div>
+<% end %>
+
