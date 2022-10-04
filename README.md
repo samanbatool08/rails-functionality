@@ -1,1 +1,1 @@
-Rails application modeling several associations (including self-referential between users using friendships_, functionaliy (user logged in/logged out views, stock following limit, friendship already following, etc), devise (for auth) 
+STOCK TRACKING APP - Rails application modeling several associations (including self-referential between users using friendships_, functionaliy (user logged in/logged out views, stock following limit, friendship already following, etc), devise (for auth) 
